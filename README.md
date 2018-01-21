@@ -8,6 +8,8 @@ This repository contains some code snippets and challenges that I used during my
 - binary_converter.py
 - comment_bad.py
 - comment_good.py
+- factorial_iterative.py
+- factorial_rec.py
 - fibonacci.py
 - indent_bad.py
 - indent_bad_output
