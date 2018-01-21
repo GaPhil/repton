@@ -14,6 +14,8 @@ This repository contains some code snippets and challenges that I used during my
 - indent_bad.py
 - indent_bad_output
 - indent_god.py
+- power_iterative.py
+- power_recursive.py
 - second_element.py
 - sum_list.py
 - variables_bad.py
