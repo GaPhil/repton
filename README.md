@@ -1,5 +1,8 @@
 # repton
 
+This repository contains some code snippets and challenges that I used during my two talks/workshops at Repton, UK.
+(January 22 - 2018)
+
 ### lecture 1
 
 - binary_converter.py
