@@ -1,4 +1,4 @@
-list = [1,2,3,4,5,6]
+numbers = [1,2,3,4,5,6]
 
 def sum(list):
 
@@ -10,4 +10,4 @@ def sum(list):
 	print result
 
 
-sum(list)
+sum(numbers)
